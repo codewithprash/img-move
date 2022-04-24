@@ -1,0 +1,11 @@
+C:\Users\zoey\source\repos\timer\timer\bin\Debug\timer.exe.config
+C:\Users\zoey\source\repos\timer\timer\bin\Debug\timer.exe
+C:\Users\zoey\source\repos\timer\timer\bin\Debug\timer.pdb
+C:\Users\zoey\source\repos\timer\timer\bin\Debug\timer.xml
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.Resources.resources
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.vbproj.GenerateResource.cache
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.vbproj.CoreCompileInputs.cache
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.exe
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.xml
+C:\Users\zoey\source\repos\timer\timer\obj\Debug\timer.pdb
